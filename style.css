@@ -1,0 +1,31 @@
+#game div {
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+  }
+
+ button {
+    width: 60px;
+    height: 40px;
+    background-color:rgb(36, 220, 199);
+    border: 2px solid black;
+    border-radius: 12px;
+  }
+
+  button#guess{
+    width: 120px;
+    height: 40px;
+    background-color:rgb(202, 22, 222);
+    border: 2px solid black;
+    border-radius: 12px;
+  }
+
+  button#score{
+    width: 120px;
+    height: 40px;
+    background-color:rgb(202, 22, 222);
+    border: 2px solid black;
+    border-radius: 12px;
+  }
